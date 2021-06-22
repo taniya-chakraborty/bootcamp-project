@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - JORHAT  || 22 Jun 2021 | 11:10:20 PM
+-------------------------------------------------------------
+Current temperature is: 26.00 deg C
+Current weather desc  : light rain
+Current Humidity      : 94 %
+Current wind speed    : 2.25 kmph

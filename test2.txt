@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - DIBRUGARH  || 22 Jun 2021 | 11:13:20 PM
+-------------------------------------------------------------
+Current temperature is: 25.73 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 92 %
+Current wind speed    : 1.64 kmph
